@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TimeDiff</string>
+    <string name="please_enter_a_start_time">Please Enter a Start Time:</string>
+    <string name="please_enter_an_end_time">Please enter an End Time:</string>
+    <string name="time_difference">Time Difference</string>
+    <string name="blah">Blah</string>
+</resources>
