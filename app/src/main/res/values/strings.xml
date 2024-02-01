@@ -4,4 +4,8 @@
     <string name="please_enter_an_end_time">Please enter an End Time:</string>
     <string name="time_difference">Time Difference</string>
     <string name="blah">Blah</string>
+    <string name="time_formatted_incorrectly_please_use_hh_mm_ss">Time Formatted incorrectly please use (HH:MM:SS)</string>
+    <string name="start_time_is_greater_than_end_time">Start Time is greater than end time, try again.</string>
+    <string name="invalid_format_please_enter_h_mm_ss">Invalid format, please enter with ":"</string>
+    <string name="missing_input_try_again">Missing Input. Try again.</string>
 </resources>
